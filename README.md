@@ -68,7 +68,7 @@ print(f"Bit Errors: {bit_errors} / {len(bits)}")
 ```
 # Output Waveform
 ```
-![image](https://github.com/user-attachments/assets/669e5c31-9192-4ef3-9c6c-8ec060465a42)
+![image](https://github.com/user-attachments/assets/cb3d6590-5460-4996-8f48-6389292afe3b)
 
 ```
 # Results
