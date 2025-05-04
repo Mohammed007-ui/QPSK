@@ -68,7 +68,7 @@ print(f"Bit Errors: {bit_errors} / {len(bits)}")
 ```
 # Output Waveform
 ```
-![QPSK Constellation](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/qpsk_constellation.png)
+![QPSK](https://github.com/user-attachments/assets/e6256007-5080-4d44-b98d-8b89d3926342)
 
 ```
 # Results
