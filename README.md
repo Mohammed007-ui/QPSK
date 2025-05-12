@@ -67,10 +67,9 @@ print(f"Bit Errors: {bit_errors} / {len(bits)}")
 
 ```
 # Output Waveform
-```
+
 ![QPSK](https://github.com/user-attachments/assets/e6256007-5080-4d44-b98d-8b89d3926342)
 
-```
 # Results
 ```
 The QPSK modulation and demodulation were successfully implemented. The constellation diagram shows four distinct points representing the four possible symbol states. The bit error rate depends on noise and simulation assumptions — here, no noise is added, so the demodulation is perfect.
